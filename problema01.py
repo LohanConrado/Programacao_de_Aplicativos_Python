@@ -1,8 +1,3 @@
-#Codigo do primeiro problema
-
-from pydoc import doc
-
-
 L = [5, 7, 2, 9, 4, 1, 3]
 i = 0
 y = 0
