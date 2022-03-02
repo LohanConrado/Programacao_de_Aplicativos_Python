@@ -8,7 +8,7 @@ while (i < 4):
     valores[i] = (int(input("Valor ")))
     i+=1
 
-soma = sum(valores[0:4])
+soma = sum(valores)
 media = soma / i
 
 if media > 0:
