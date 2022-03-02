@@ -13,7 +13,9 @@ menor = min(valores)
 while (i < 20):
     valores[i] = (int(input("Valor ")))
     i+=1
-"""
+
+""" Parte do codigo antigo, substituido pelas funções MAX e MIN 
+
 while (x < 20):
     if maior < valores[x]:
         maior = valores[x]
@@ -28,7 +30,7 @@ while (y < 20):
     else:
         y+=1
 
-"""
+----------------------------------------------------------------------"""
 maior = max(valores)
 menor = min(valores)
 soma = sum(valores)
