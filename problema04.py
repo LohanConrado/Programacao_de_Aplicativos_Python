@@ -4,4 +4,4 @@ def desenhar(tamanho):
     tamanho = underline * tamanho
     return (tamanho)
 
-print(desenhar(tamanho=20))
+print(desenhar(20))
